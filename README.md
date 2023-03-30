@@ -1,2 +1,0 @@
-# dane_kurs
-ZadanieKurs
